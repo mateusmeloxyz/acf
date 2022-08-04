@@ -39,7 +39,7 @@ function parseref(ref, arr) {
 	# 8. <book>/search
 	# 9. <book>:?<chapter>/search
 
-	if (match(ref, "^[1-9]?[a-zA-Z ]+")) {
+	if (match(ref, "^[1-9]?[a-zA-Zãâáóôéêõúíç ]+")) {
 		# 1, 2, 3, 3a, 4, 5, 6, 8, 9
 		arr["book"] = substr(ref, 1, RLENGTH)
 		ref = substr(ref, RLENGTH + 1)
