@@ -1,4 +1,4 @@
-# acf
+# acf (en)
 
 Read the Word of God from your terminal
 
@@ -45,7 +45,7 @@ acf can be built by cloning the repository and then running make:
 
 Public domain
 
-# acf
+# acf (pt/Br)
 
 Leia a palavra de Deus direto do terminal
 
@@ -90,4 +90,4 @@ acf pode ser montado clonando o repostitório e rodando make:
 
 ## Licença
 
-Public domain
+Domínio Público
