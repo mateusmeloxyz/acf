@@ -4,6 +4,8 @@ Read the Word of God from your terminal
 
 Taken from an old version of [https://github.com/bontibon/kjv.git](https://github.com/bontibon/kjv.git) and [https://github.com/LukeSmithxyz/kjv](https://github.com/LukeSmithxyz/kjv)
 
+![acf](acf.png)
+
 ## Usage
 
     usage: ./acf [flags] [reference...]
